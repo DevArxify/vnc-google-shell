@@ -42,4 +42,4 @@ A: run `$ sudo apt-get install python -y`
 
 # Credits
 ©️ Arxify Innovations, 2022<br>
-This software is licensed under the [MIT license](https://github.com/ArxifyByte/vnc-google-shell/tree/main/LICENSE)
+This piece of software is licensed under the [MIT license](https://github.com/ArxifyByte/vnc-google-shell/tree/main/LICENSE)

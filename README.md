@@ -25,9 +25,21 @@ Now, let's enter to the folder that we cloned previously.<br>
 Next, we have to run the necessary script to setup a desktop environment on the server.<br>
 `$ python vnc.py`<br><br>
 
+## Sixth step
+
 Then, log into the [Google Remote Desktop](https://remotedesktop.google.com/headless) headless install with your [Google account](https://myaccount.google.com). <br><br>
+
+# Last step
 
 And last but not least, copy the Debian Linux command and paste it on the machine.
 
 # FAQ
-### How can I copy any command from this repo?
+### When I run the "Debian Linux" command, it outputs an error
+A: Try repeating the first and third steps.<br><br>
+
+### It outputs an error when I try the fifth step
+A: run `$ sudo apt-get install python -y`
+
+# Credits
+Arxify, 2022<br>
+This software is licensed under the [MIT license](https://github.com/ArxifyByte/vnc-google-shell/tree/main/LICENSE)

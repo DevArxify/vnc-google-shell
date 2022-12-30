@@ -12,7 +12,7 @@ Then, we'll clone this repository to get the remote desktop environment required
 ## Third step
 
 Next, we have to unpackage and install the Remote Desktop client.<br>
-`$ sudo dpkg -i chrome-remote-desktop_current_amd64.deb`<br>
+`$ sudo dpkg -i chrome-remote-desktop_current_amd64.deb`<br><br>
 `$ sudo apt-get install -f`<br><br>
 
 ## Fourth step

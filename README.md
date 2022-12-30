@@ -31,7 +31,9 @@ Then, log into the [Google Remote Desktop](https://remotedesktop.google.com/head
 
 # Last step
 
-And last but not least, copy the Debian Linux command and paste it on the machine.
+And last but not least, copy the Debian Linux command and paste it on the machine.<br><br>
+
+Now, you can connect to it using the [Remote Desktop](https://remotedesktop.google.com/) website and selecting the `xfce session` while booting up.
 
 # FAQ
 ### When I run the "Debian Linux" command, it outputs an error

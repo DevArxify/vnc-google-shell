@@ -2,7 +2,7 @@
 Step-by-step guide on how to connect remotely to a [Google Cloud](https://console.cloud.google.com)
 # Instructions
 First, we'll install the Google Remote Desktop client by using the following command:<br>
-`wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb`<br><br>
+```wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb```<br><br>
 
 Then, we'll clone this repository to get the remote desktop environment required file.<br>
 `git clone https://github.com/ArxifyByte/vnc-google-shell.git`<br><br>

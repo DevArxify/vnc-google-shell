@@ -7,7 +7,7 @@ First, we'll install the Google Remote Desktop client by using the following com
 ## Second step
 
 Then, we'll clone this repository to get the remote desktop environment required file.<br>
-`$ git clone https://github.com/ArxifyByte/vnc-google-shell.git`<br><br>
+`$ git clone https://github.com/DevArxify/vnc-google-shell.git`<br><br>
 
 ## Third step
 
